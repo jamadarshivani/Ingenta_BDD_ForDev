@@ -1,0 +1,64 @@
+2018-04-19 12:21:09,765 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:56122/
+2018-04-19 12:21:13,633 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://addepot10demo.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-04-19 12:21:13,634 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-04-19 12:21:13,729 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_UserName
+2018-04-19 12:21:16,081 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_Password
+2018-04-19 12:21:17,756 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_LoginButton
+2018-04-19 12:21:18,240 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-04-19 12:21:24,936 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-04-19 12:21:30,248 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-04-19 12:21:31,243 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Inventory
+2018-04-19 12:21:31,243 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: INVENTORY
+2018-04-19 12:21:31,724 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Inventory
+2018-04-19 12:21:38,313 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctl00_cphMain_btnNewSearch
+2018-04-19 12:21:38,806 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-04-19 12:21:40,596 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-04-19 12:21:41,170 [TestRunnerThread] INFO  Ingenta.Framework.Pages.InventoryEvent_Page - Selecting Ad Type
+2018-04-19 12:21:41,170 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [id*='srch03_ddlAdType_DropDownList1']
+2018-04-19 12:21:41,560 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "EVENT"]
+2018-04-19 12:21:42,018 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Event
+2018-04-19 12:21:42,601 [TestRunnerThread] INFO  Ingenta.Framework.Pages.InventoryEvent_Page - Selecting Media Group
+2018-04-19 12:21:42,603 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div.inv_wait>img
+2018-04-19 12:21:43,360 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: divMain
+2018-04-19 12:21:47,125 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [id*='srch03_ddlMediumGroup_DropDownList1']
+2018-04-19 12:21:47,258 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "EV"]
+2018-04-19 12:21:47,472 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Events & Awards
+2018-04-19 12:21:47,661 [TestRunnerThread] INFO  Ingenta.Framework.Pages.InventoryEvent_Page - Selecting Media
+2018-04-19 12:21:47,662 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div.inv_wait>img
+2018-04-19 12:21:47,813 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: divMain
+2018-04-19 12:21:49,503 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [id*='srch03_lbMedia_ListBox1']
+2018-04-19 12:21:49,873 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "HGSHO"]
+2018-04-19 12:21:50,275 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Home & Gardens Show
+2018-04-19 12:21:50,686 [TestRunnerThread] INFO  Ingenta.Framework.Pages.InventoryEvent_Page - Selecting Section
+2018-04-19 12:21:50,686 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div.inv_wait>img
+2018-04-19 12:21:51,000 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: divMain
+2018-04-19 12:21:52,741 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [id*='srch03_lbMediumSection_ListBox1']
+2018-04-19 12:21:53,114 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "HH"]
+2018-04-19 12:21:53,412 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Homes Hall
+2018-04-19 12:21:53,854 [TestRunnerThread] INFO  Ingenta.Framework.Pages.InventoryEvent_Page - Selecting Inventory Placement
+2018-04-19 12:21:53,855 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div.inv_wait>img
+2018-04-19 12:21:54,056 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: divMain
+2018-04-19 12:21:55,836 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [id*='srch03_lbMediumInventory_ListBox1']
+2018-04-19 12:21:55,977 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "300"]
+2018-04-19 12:21:56,154 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Homes - Other position
+2018-04-19 12:21:56,366 [TestRunnerThread] INFO  Ingenta.Framework.Pages.InventoryEvent_Page - Selecting Period
+2018-04-19 12:21:56,366 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div.inv_wait>img
+2018-04-19 12:21:56,505 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: divMain
+2018-04-19 12:21:58,613 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [id*='srch03_ucBkingPeriod_ddlPeriod']
+2018-04-19 12:21:58,755 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "SIXMONTHS"]
+2018-04-19 12:21:58,970 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Six Months
+2018-04-19 12:21:59,252 [TestRunnerThread] INFO  Ingenta.Framework.Pages.InventoryEvent_Page - Selecting Ad Size
+2018-04-19 12:21:59,252 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div.inv_wait>img
+2018-04-19 12:21:59,417 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: divMain
+2018-04-19 12:22:05,008 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [id*='srch03_ddlAdSize_DropDownList1']
+2018-04-19 12:22:05,185 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "EBSML"]
+2018-04-19 12:22:05,364 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Event Booth Standard
+2018-04-19 12:22:05,541 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div.inv_wait>img
+2018-04-19 12:22:05,710 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: divMain
+2018-04-19 12:22:07,089 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [id*='srch03_btnGetInventory']
+2018-04-19 12:22:07,199 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-04-19 12:22:07,819 [TestRunnerThread] INFO  Ingenta.Framework.Pages.InventoryEvent_Page - Adding Items to Cart
+2018-04-19 12:22:07,819 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div.inv_wait>img
+2018-04-19 12:22:07,994 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: [title |= 'Add to cart']
+2018-04-19 12:22:41,018 [TestRunnerThread] INFO  Ingenta.Test.ComplexScenario_EventAd - Thread was being aborted.
+

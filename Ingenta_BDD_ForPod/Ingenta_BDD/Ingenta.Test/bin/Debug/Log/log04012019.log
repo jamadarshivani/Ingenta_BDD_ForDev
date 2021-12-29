@@ -1,0 +1,1237 @@
+2019-01-04 13:09:33,237 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:63816/
+2019-01-04 13:09:35,902 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 13:09:35,905 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 13:09:35,993 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 13:09:37,071 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 13:09:37,660 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 13:09:38,648 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 13:09:44,963 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 13:09:45,160 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 13:09:45,160 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 13:09:45,366 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 13:09:47,243 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 13:09:48,244 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 13:09:48,402 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:09:48,445 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 13:09:48,499 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 13:09:48,925 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 13:09:48,987 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:09:50,779 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 13:09:50,936 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 13:09:51,101 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:09:54,480 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:09:54,909 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:09:55,101 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:09:56,352 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:09:56,520 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:09:56,551 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:09:56,606 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 13:09:56,699 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (0)
+2019-01-04 13:09:59,804 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:10:00,133 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:10:00,313 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:10:01,540 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:10:01,689 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:10:01,721 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:10:02,764 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:10:02,956 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:10:02,989 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:10:03,042 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnAddResponsibility
+2019-01-04 13:10:03,350 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnDeleteResponsibility
+2019-01-04 13:10:03,481 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityListxgrdCompanyResponsibilities_c_0_0
+2019-01-04 13:10:03,651 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityListxgrdCompanyResponsibilities_c_0_1
+2019-01-04 13:10:03,768 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityListxgrdCompanyResponsibilities_c_0_2
+2019-01-04 13:10:03,891 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityListxgrdCompanyResponsibilities_c_0_3
+2019-01-04 13:10:04,015 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityListxgrdCompanyResponsibilities_c_0_4
+2019-01-04 13:10:04,186 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityListxgrdCompanyResponsibilities_c_0_5
+2019-01-04 13:24:07,452 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:65141/
+2019-01-04 13:24:09,967 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 13:24:09,970 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 13:24:10,059 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 13:24:10,831 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 13:24:11,302 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 13:24:12,086 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 13:24:17,306 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 13:24:17,478 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 13:24:17,479 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 13:24:17,673 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 13:24:19,345 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 13:24:20,346 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 13:24:20,468 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:20,501 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 13:24:20,554 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 13:24:20,940 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 13:24:21,003 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:24:22,582 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 13:24:22,707 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 13:24:22,840 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:24:25,945 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:24:26,183 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:26,334 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:24:27,519 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:24:27,638 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:27,672 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:24:27,730 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 13:24:27,847 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (0)
+2019-01-04 13:24:30,885 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:24:31,136 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:31,296 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:24:32,501 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:24:32,624 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:32,655 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:24:33,698 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:24:33,872 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:33,904 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:24:33,957 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnAddResponsibility
+2019-01-04 13:24:34,020 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:24:36,842 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:24:37,114 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:37,246 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:24:38,435 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:24:38,553 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:38,594 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:24:39,638 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:24:39,752 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:39,783 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:24:44,825 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:24:44,858 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 13:24:44,910 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: txtCompanyName
+2019-01-04 13:26:41,543 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:65389/
+2019-01-04 13:26:44,034 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 13:26:44,036 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 13:26:44,110 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 13:26:44,867 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 13:26:45,422 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 13:26:46,194 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 13:26:51,427 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 13:26:51,625 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 13:26:51,625 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 13:26:51,796 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 13:26:53,497 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 13:26:54,497 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 13:26:54,650 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:26:54,682 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 13:26:54,737 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 13:26:55,133 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 13:26:55,205 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:26:56,788 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 13:26:56,914 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 13:26:57,060 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:27:00,233 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:27:00,497 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:00,643 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:27:01,839 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:27:01,985 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:02,016 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:27:02,069 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 13:27:02,175 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (0)
+2019-01-04 13:27:05,262 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:27:05,529 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:05,657 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:27:06,842 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:27:06,987 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:07,029 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:27:08,074 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:27:08,200 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:08,237 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:27:08,301 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnAddResponsibility
+2019-01-04 13:27:08,381 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:27:11,240 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:27:11,540 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:11,682 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:27:12,862 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:27:13,026 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:13,057 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:27:14,101 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:27:14,331 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:14,363 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:27:19,408 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:27:19,461 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 13:27:19,514 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: txtContactName
+2019-01-04 13:28:02,818 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:49292/
+2019-01-04 13:28:05,421 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 13:28:05,424 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 13:28:05,500 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 13:28:06,259 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 13:28:06,767 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 13:28:07,553 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 13:28:12,721 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 13:28:12,909 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 13:28:12,909 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 13:28:13,078 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 13:28:14,739 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 13:28:15,740 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 13:28:15,885 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:15,918 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 13:28:15,983 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 13:28:16,373 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 13:28:16,435 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:28:18,021 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 13:28:18,136 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 13:28:18,290 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:28:21,521 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:28:21,876 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:22,001 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:28:23,183 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:28:23,327 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:23,359 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:28:23,412 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 13:28:23,507 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (0)
+2019-01-04 13:28:26,634 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:28:26,885 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:27,009 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:28:28,193 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:28:28,354 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:28,385 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:28:29,438 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:28:29,589 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:29,620 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:28:29,665 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnAddResponsibility
+2019-01-04 13:28:29,727 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 13:28:32,525 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:28:32,803 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:32,948 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 13:28:34,160 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:28:34,306 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:34,348 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 13:28:35,392 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:28:35,547 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:35,580 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 13:28:40,633 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 13:28:40,675 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 13:28:40,739 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: txtContactName
+2019-01-04 13:28:40,860 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalContact_btnModal
+2019-01-04 13:28:40,968 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlUserName
+2019-01-04 13:28:41,094 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: option
+2019-01-04 13:28:41,291 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlRole
+2019-01-04 13:28:41,407 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlMedium
+2019-01-04 14:51:44,524 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:57190/
+2019-01-04 14:51:47,029 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 14:51:47,032 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 14:51:47,105 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 14:51:47,956 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 14:51:48,470 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 14:51:49,309 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 14:51:55,606 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 14:51:55,791 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 14:51:55,791 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 14:51:55,968 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 14:51:57,654 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 14:51:58,655 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 14:51:58,789 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:51:58,821 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 14:51:58,884 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 14:51:59,242 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 14:51:59,305 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 14:52:02,072 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 14:52:02,199 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 14:52:02,345 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 14:52:06,705 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 14:52:06,980 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:07,120 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 14:52:08,313 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 14:52:08,432 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:08,464 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 14:52:08,528 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 14:52:08,621 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (0)
+2019-01-04 14:52:11,677 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 14:52:11,963 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:12,096 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 14:52:13,275 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 14:52:13,437 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:13,469 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 14:52:14,525 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 14:52:14,687 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:14,728 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 14:52:14,781 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnAddResponsibility
+2019-01-04 14:52:14,844 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 14:52:17,714 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 14:52:17,985 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:18,126 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 14:52:19,308 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 14:52:19,487 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:19,520 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 14:52:20,564 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 14:52:20,691 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:20,760 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 14:52:25,805 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:25,858 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 14:52:25,913 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalContact_btnModal
+2019-01-04 14:52:25,976 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 14:52:33,113 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:33,313 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 14:52:34,502 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 14:52:34,659 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 14:52:34,706 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 14:52:34,770 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 14:52:34,903 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect2_txtValue1
+2019-01-04 14:52:35,020 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect3_txtValue1
+2019-01-04 14:52:35,149 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect4_txtValue1
+2019-01-04 15:15:25,981 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:59680/
+2019-01-04 15:15:28,710 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 15:15:28,710 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 15:15:28,790 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 15:15:29,586 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 15:15:30,017 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 15:15:30,732 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 15:15:37,069 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 15:15:37,247 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 15:15:37,247 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 15:15:37,459 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 15:15:39,153 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 15:15:40,155 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 15:15:40,323 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:15:40,353 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 15:15:40,443 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 15:15:40,837 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 15:15:40,947 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 15:15:43,372 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 15:15:43,492 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 15:15:43,632 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 15:15:47,565 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:15:47,810 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:15:48,026 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:15:49,422 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:15:49,562 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:15:49,602 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:15:49,662 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 15:15:49,752 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (0)
+2019-01-04 15:15:53,022 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:15:53,292 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:15:53,439 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:15:54,611 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:15:54,771 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:15:54,801 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:15:55,833 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:15:56,006 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:15:56,036 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:15:56,086 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnAddResponsibility
+2019-01-04 15:15:56,146 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 15:15:59,269 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:15:59,549 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:15:59,679 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:00,875 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:01,025 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:01,065 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:02,132 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:02,242 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:02,272 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:07,312 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:07,372 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 15:16:07,422 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalContact_btnModal
+2019-01-04 15:16:07,492 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 15:16:14,613 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:14,789 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 15:16:15,970 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 15:16:16,144 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:16,199 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 15:16:16,249 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenContact
+2019-01-04 15:16:16,319 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 15:16:19,493 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:19,756 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:19,906 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:21,102 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:21,252 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:21,292 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:22,351 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:22,481 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:22,511 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:27,559 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:27,619 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 15:16:27,679 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlRole
+2019-01-04 15:16:27,811 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Display Sales"]
+2019-01-04 15:16:27,944 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Display Sales
+2019-01-04 15:16:29,081 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:29,343 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:29,474 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:30,643 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:30,784 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:30,830 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:31,877 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:31,998 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:32,038 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:37,080 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:37,140 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 15:16:37,190 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlMedium
+2019-01-04 15:16:37,300 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Alberton Record"]
+2019-01-04 15:16:37,390 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Alberton Record
+2019-01-04 15:16:38,536 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:38,796 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:38,927 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:40,111 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:40,251 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:40,291 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:41,333 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:41,476 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:41,516 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:46,570 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:46,620 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 15:16:46,680 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnSave
+2019-01-04 15:16:46,750 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 15:16:49,974 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:50,244 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:50,395 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 15:16:51,580 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:51,731 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:51,761 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 15:16:52,816 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:52,956 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 15:16:52,996 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 15:16:53,036 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText:nth-child(2) > nobr
+2019-01-04 15:16:53,106 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText:nth-child(3) > nobr
+2019-01-04 15:16:53,186 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText:nth-child(5) > nobr
+2019-01-04 16:06:32,503 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:64901/
+2019-01-04 16:06:35,124 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 16:06:35,127 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 16:06:35,216 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 16:06:36,084 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 16:06:36,613 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 16:06:37,452 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 16:06:43,710 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 16:06:43,909 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SEARCH
+2019-01-04 16:06:44,081 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Companies
+2019-01-04 16:06:45,850 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanySearch_Page - Search the company : Test_Company
+2019-01-04 16:06:46,850 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:06:47,013 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:06:47,045 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:06:47,110 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 16:06:47,570 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 16:06:47,656 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:06:49,783 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 16:06:49,913 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 16:06:50,046 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:06:54,498 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:06:54,792 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:06:54,947 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:06:56,144 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:06:56,291 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:06:56,322 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:06:56,376 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_1_Item_4
+2019-01-04 16:06:56,482 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Ad Templates (0)
+2019-01-04 16:06:58,756 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:06:59,085 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:06:59,230 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:07:00,437 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:07:00,573 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:07:00,607 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:07:01,651 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:07:01,776 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:07:01,808 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:07:01,876 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFCompanySiteStyleList_btnAddAdTemplate
+2019-01-04 16:07:01,954 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:07:04,540 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ddlAdSizeCode
+2019-01-04 16:07:04,997 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: txtSiteStyle
+2019-01-04 16:07:05,254 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: txtDesignTemplateName
+2019-01-04 16:07:05,541 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: txtDesignTemplateFile
+2019-01-04 16:07:05,803 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: fupThumbnail
+2019-01-04 16:21:55,737 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:50151/
+2019-01-04 16:21:58,183 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 16:21:58,186 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 16:21:58,283 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 16:21:59,181 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 16:21:59,675 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 16:22:00,558 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 16:22:06,842 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 16:22:07,041 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 16:22:07,041 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 16:22:07,217 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 16:22:09,171 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 16:22:10,172 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:22:10,330 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:10,364 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:22:10,409 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 16:22:10,781 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 16:22:10,874 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:22:12,528 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 16:22:12,654 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 16:22:12,811 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:22:17,187 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:17,506 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:17,655 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:18,860 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:19,024 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:19,055 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:19,108 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 16:22:19,203 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (1)
+2019-01-04 16:22:22,360 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:22,640 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:22,795 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:24,005 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:24,165 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:24,196 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:25,251 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:22:25,407 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:25,440 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:22:25,493 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnAddResponsibility
+2019-01-04 16:22:25,567 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:22:28,533 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:28,828 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:28,998 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:30,233 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:30,365 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:30,406 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:31,460 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:22:31,597 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:31,638 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:22:36,704 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:36,756 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 16:22:36,809 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlRole
+2019-01-04 16:22:36,962 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Client Management"]
+2019-01-04 16:22:37,069 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Client Management
+2019-01-04 16:22:38,237 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:38,592 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:38,731 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:39,946 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:40,106 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:40,138 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:41,182 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:22:41,350 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:41,382 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:22:46,430 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:46,473 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 16:22:46,527 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlMedium
+2019-01-04 16:22:46,663 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Daily Gazette"]
+2019-01-04 16:22:46,758 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Daily Gazette
+2019-01-04 16:22:47,915 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:48,187 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:48,324 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:22:49,529 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:49,686 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:49,718 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:22:50,762 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:22:50,925 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:50,976 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:22:56,029 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:22:56,078 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 16:22:56,121 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnSave
+2019-01-04 16:22:56,194 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:23:59,602 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:23:59,925 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:24:00,089 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:24:01,857 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:24:02,030 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:24:02,061 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:24:03,666 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:24:03,953 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:24:03,986 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:24:04,707 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText:nth-child(2) > nobr
+2019-01-04 16:24:05,223 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText:nth-child(3) > nobr
+2019-01-04 16:24:17,657 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText:nth-child(5) > nobr
+2019-01-04 16:24:21,155 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText:nth-child(6) > nobr
+2019-01-04 16:40:19,150 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:52296/
+2019-01-04 16:40:21,911 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 16:40:21,915 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 16:40:22,003 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 16:40:22,910 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 16:40:23,386 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 16:40:24,192 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 16:40:30,558 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 16:40:30,750 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 16:40:30,750 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 16:40:30,939 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 16:40:32,634 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 16:40:33,635 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:40:33,781 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:33,823 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:40:33,877 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 16:40:34,248 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 16:40:34,321 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:40:35,920 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 16:40:36,046 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 16:40:36,191 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:40:39,550 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:40:39,827 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:39,979 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:40:41,176 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:40:41,332 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:41,364 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:40:41,422 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 16:40:41,518 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (2)
+2019-01-04 16:40:44,334 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:40:44,622 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:44,776 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:40:45,974 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:40:46,122 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:46,154 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:40:47,198 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:40:47,338 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:47,369 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:40:47,423 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText
+2019-01-04 16:40:47,496 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Client Management
+2019-01-04 16:40:48,932 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:40:49,212 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:49,380 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:40:50,584 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:40:50,726 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:50,758 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:40:51,802 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:40:51,954 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:51,985 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:40:52,031 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnDeleteResponsibility
+2019-01-04 16:40:52,098 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:40:53,401 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:40:53,672 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:53,808 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:40:54,986 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:40:55,144 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:55,175 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:40:56,218 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:40:56,360 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:40:56,392 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:40:56,438 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText
+2019-01-04 16:41:46,513 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:52592/
+2019-01-04 16:41:49,164 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 16:41:49,167 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 16:41:49,241 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 16:41:50,128 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 16:41:50,632 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 16:41:51,396 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 16:41:57,657 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 16:41:57,875 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 16:41:57,876 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 16:41:58,055 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 16:41:59,811 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 16:42:00,811 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:42:00,968 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:42:01,000 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:42:01,055 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 16:42:01,426 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 16:42:01,488 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:42:03,033 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 16:42:03,173 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 16:42:03,336 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:42:06,517 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:42:06,763 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:42:06,904 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:42:08,094 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:42:08,256 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:42:08,288 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:42:08,341 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 16:42:08,444 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (1)
+2019-01-04 16:42:11,663 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:42:11,944 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:42:12,091 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:42:13,268 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:42:13,426 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:42:13,458 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:42:14,501 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:42:14,665 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:42:14,697 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:42:19,752 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:42:20,034 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 16:43:25,858 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:52869/
+2019-01-04 16:43:28,298 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 16:43:28,301 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 16:43:28,399 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 16:43:29,225 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 16:43:29,712 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 16:43:30,533 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 16:43:35,704 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 16:43:35,882 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 16:43:35,882 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 16:43:36,075 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 16:43:37,724 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 16:43:38,724 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:43:38,870 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:43:38,902 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:43:38,967 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 16:43:39,387 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 16:43:39,459 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:43:41,059 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 16:43:41,174 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 16:43:41,317 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:43:44,521 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:43:44,860 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:43:44,993 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:43:46,193 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:43:46,344 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:43:46,375 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:43:46,428 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 16:43:46,522 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (1)
+2019-01-04 16:43:49,696 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:43:49,967 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:43:50,099 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:43:51,288 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:43:51,429 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:43:51,461 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:43:52,516 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:43:52,672 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:43:52,714 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:43:57,769 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:43:58,047 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 16:45:11,001 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:53155/
+2019-01-04 16:45:14,529 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 16:45:14,532 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 16:45:14,633 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 16:45:15,432 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 16:45:15,891 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 16:45:16,720 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 16:45:23,039 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 16:45:23,238 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 16:45:23,238 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 16:45:23,441 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 16:45:25,078 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 16:45:26,079 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:45:26,239 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:26,281 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 16:45:26,336 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 16:45:26,756 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 16:45:26,852 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:45:28,420 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 16:45:28,536 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 16:45:28,668 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:45:32,085 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:45:32,390 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:32,548 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:45:33,737 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:45:33,886 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:33,918 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:45:33,974 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2019-01-04 16:45:34,078 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (1)
+2019-01-04 16:45:37,161 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:45:37,405 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:37,542 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:45:38,731 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:45:38,874 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:38,906 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:45:39,949 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:45:40,138 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:40,170 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:45:40,225 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnAddResponsibility
+2019-01-04 16:45:40,289 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:45:43,238 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:45:43,521 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:43,652 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:45:44,843 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:45:44,965 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:44,996 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:45:46,048 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:45:46,204 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:46,235 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:45:51,277 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:51,340 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 16:45:51,394 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlRole
+2019-01-04 16:45:51,541 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Client Management"]
+2019-01-04 16:45:51,679 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Client Management
+2019-01-04 16:45:52,827 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:45:53,085 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:53,224 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:45:54,427 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:45:54,592 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:54,624 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:45:55,667 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:45:55,819 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:45:55,860 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:00,904 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:00,987 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 16:46:01,053 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlMedium
+2019-01-04 16:46:01,214 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Daily Gazette"]
+2019-01-04 16:46:01,321 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Daily Gazette
+2019-01-04 16:46:02,462 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:46:02,768 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:02,902 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:46:04,095 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:46:04,237 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:04,279 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:46:05,323 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:05,473 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:05,505 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:10,559 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:10,611 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: RadEditResponsibility1
+2019-01-04 16:46:10,654 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnSave
+2019-01-04 16:46:10,717 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:46:13,842 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:46:14,219 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:14,365 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:46:15,559 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:46:15,723 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:15,754 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:46:16,797 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:16,950 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:16,982 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:17,026 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText
+2019-01-04 16:46:17,098 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Client Management
+2019-01-04 16:46:18,516 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:46:18,785 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:19,018 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:46:20,203 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:46:20,349 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:20,380 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:46:21,434 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:21,604 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:21,635 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:21,678 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFResponsibilityList_btnDeleteResponsibility
+2019-01-04 16:46:21,741 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 16:46:23,060 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:46:23,340 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:23,503 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 16:46:24,702 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:46:24,866 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:24,898 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 16:46:25,940 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:26,085 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 16:46:26,117 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 16:46:26,175 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td.ig_4f900e21_r1.GridRow.UltraWebGridRow.FormGridCellText
+2019-01-04 17:31:16,144 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:57842/
+2019-01-04 17:31:18,802 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 17:31:18,805 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 17:31:18,894 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 17:31:19,818 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 17:31:20,342 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 17:31:21,214 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 17:31:27,510 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 17:31:27,705 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 17:31:27,705 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 17:31:27,887 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 17:31:29,526 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 17:31:30,526 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 17:31:30,664 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:31:30,696 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 17:31:30,750 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 17:31:31,130 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 17:31:31,225 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:31:32,771 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 17:31:32,915 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 17:31:33,050 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:31:35,326 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyRelationship_Page - Navigate to Re;ationship tab
+2019-01-04 17:31:36,338 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:31:36,710 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:31:36,935 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:31:38,193 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:31:38,346 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:31:38,377 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:31:38,432 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_3
+2019-01-04 17:31:38,494 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Relationships (0)
+2019-01-04 17:31:39,592 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyRelationship_Page - Verifying Relationship Tab Details
+2019-01-04 17:31:40,603 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:31:40,957 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:31:41,118 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:31:42,325 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:31:42,502 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:31:42,533 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:31:43,566 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 17:31:43,739 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:31:43,771 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 17:31:43,825 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipList_btnAddRelationship
+2019-01-04 17:31:44,114 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipList_btnDeleteRelationship
+2019-01-04 17:31:44,241 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipList_rblRelationshipsDateControl_0
+2019-01-04 17:31:44,293 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipList_rblRelationshipsDateControl_1
+2019-01-04 17:31:44,345 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipListxgrdCompanyRelationships_c_0_7
+2019-01-04 17:31:44,452 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipListxgrdCompanyRelationships_c_0_5
+2019-01-04 17:31:44,584 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipListxgrdCompanyRelationships_c_0_6
+2019-01-04 17:31:44,698 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipListxgrdCompanyRelationships_c_0_4
+2019-01-04 17:31:44,813 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipListxgrdCompanyRelationships_c_0_8
+2019-01-04 17:31:44,945 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipListxgrdCompanyRelationships_c_0_3
+2019-01-04 17:31:45,077 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipListxgrdCompanyRelationships_c_0_18
+2019-01-04 17:31:45,192 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipListxgrdCompanyRelationships_c_0_19
+2019-01-04 17:36:16,793 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:58519/
+2019-01-04 17:36:19,370 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 17:36:19,373 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 17:36:19,464 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 17:36:20,364 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 17:36:20,894 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 17:36:21,765 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 17:36:27,101 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 17:36:27,330 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 17:36:27,330 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 17:36:27,585 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 17:36:29,273 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 17:36:30,273 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 17:36:30,458 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:36:30,587 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 17:36:30,641 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 17:36:31,045 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 17:36:31,162 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:36:32,717 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 17:36:32,929 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 17:36:33,082 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:36:35,276 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyRelationship_Page - Navigate to Re;ationship tab
+2019-01-04 17:36:36,292 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:36:36,579 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:36:36,736 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:36:37,955 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:36:38,109 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:36:38,140 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:36:38,192 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_3
+2019-01-04 17:36:38,255 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Relationships (0)
+2019-01-04 17:36:40,386 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:36:40,677 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:36:40,829 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:36:42,035 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:36:42,202 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:36:42,234 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:36:43,277 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 17:36:43,422 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:36:43,453 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 17:36:43,507 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipList_btnAddRelationship
+2019-01-04 17:36:43,570 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:36:45,680 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:36:45,949 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:36:46,104 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:36:47,325 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:36:47,481 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:36:47,513 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:36:47,577 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: rbtnOwner
+2019-01-04 17:36:47,726 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: rbtnLinked
+2019-01-04 17:36:47,865 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalCompany_btnModal
+2019-01-04 17:36:47,953 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalContact_btnModal
+2019-01-04 17:36:48,006 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlRole
+2019-01-04 17:36:48,144 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalLinkCompany_btnModal
+2019-01-04 17:36:48,206 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalLinkCompanyByHierarchy_btnModal
+2019-01-04 17:36:48,260 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalLinkContact_btnModal
+2019-01-04 17:36:48,312 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlBrand
+2019-01-04 17:36:48,446 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlAccountStatus
+2019-01-04 17:36:48,592 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: dcStartDate_iwdcDate_input
+2019-01-04 17:36:48,753 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: dcEndDate_iwdcDate_input
+2019-01-04 17:51:23,678 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:60193/
+2019-01-04 17:51:26,293 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 17:51:26,296 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 17:51:26,382 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 17:51:27,468 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 17:51:28,011 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 17:51:28,849 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 17:51:34,100 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 17:51:34,305 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 17:51:34,305 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 17:51:34,505 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 17:51:36,138 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 17:51:37,138 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 17:51:37,323 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:37,355 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 17:51:37,448 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 17:51:37,913 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 17:51:37,987 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:51:39,528 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 17:51:39,669 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 17:51:39,803 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:51:42,140 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyRelationship_Page - Navigate to Re;ationship tab
+2019-01-04 17:51:43,152 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:51:43,466 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:43,638 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:51:44,861 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:51:45,081 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:45,113 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:51:45,167 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_3
+2019-01-04 17:51:45,231 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Relationships (0)
+2019-01-04 17:51:47,302 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:51:47,582 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:47,735 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:51:49,037 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:51:49,202 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:49,234 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:51:50,278 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 17:51:50,436 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:50,468 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 17:51:50,511 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipList_btnAddRelationship
+2019-01-04 17:51:50,574 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:51:52,654 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:51:52,935 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:53,104 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:51:54,325 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:51:54,439 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:54,470 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:51:54,514 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: rbtnLinked
+2019-01-04 17:51:54,726 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:51:56,595 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:51:56,885 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:57,115 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:51:58,346 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:51:58,499 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:51:58,531 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:51:58,574 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalCompany_btnModal
+2019-01-04 17:51:58,638 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:52:05,077 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:05,280 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 17:52:06,506 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 17:52:06,656 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:06,698 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 17:52:06,752 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 17:52:07,275 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 17:52:07,338 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:52:08,426 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenSite
+2019-01-04 17:52:08,499 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:52:10,886 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:52:11,203 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:11,370 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:52:12,597 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:52:12,743 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:12,774 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:52:12,829 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalContact_btnModal
+2019-01-04 17:52:12,902 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:52:19,294 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:19,482 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 17:52:20,711 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 17:52:20,857 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:20,891 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 17:52:21,032 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenContact
+2019-01-04 17:52:21,104 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:52:23,559 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:52:23,963 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:24,137 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:52:25,348 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:52:25,531 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:25,562 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:52:25,607 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlRole
+2019-01-04 17:52:25,761 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Brand Manager"]
+2019-01-04 17:52:25,877 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Brand Manager
+2019-01-04 17:52:26,016 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalLinkContact_btnModal
+2019-01-04 17:52:26,079 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:52:32,360 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:32,551 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 17:52:33,764 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 17:52:33,952 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:33,983 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 17:52:34,047 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenContact
+2019-01-04 17:52:34,121 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 17:52:36,670 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:52:36,949 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:37,123 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 17:52:38,341 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:52:38,516 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 17:52:38,558 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 17:52:38,612 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlBrand
+2019-01-04 17:52:38,762 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "xyz"]
+2019-01-04 18:35:59,154 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:64634/
+2019-01-04 18:36:01,929 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 18:36:01,932 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 18:36:02,022 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 18:36:02,983 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 18:36:03,473 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 18:36:04,469 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 18:36:10,767 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 18:36:10,992 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 18:36:10,992 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 18:36:11,180 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 18:36:13,423 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 18:36:14,426 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 18:36:14,594 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:14,646 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 18:36:14,700 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 18:36:15,190 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 18:36:15,285 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:36:17,152 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 18:36:17,264 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 18:36:17,418 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:36:20,077 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyRelationship_Page - Navigate to Re;ationship tab
+2019-01-04 18:36:21,090 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:21,372 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:21,524 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:22,740 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:22,928 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:22,959 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:23,012 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_3
+2019-01-04 18:36:23,085 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Relationships (0)
+2019-01-04 18:36:25,334 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:25,588 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:25,747 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:26,963 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:27,113 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:27,154 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:28,208 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 18:36:28,359 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:28,391 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 18:36:28,445 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipList_btnAddRelationship
+2019-01-04 18:36:28,521 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:36:30,761 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:31,010 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:31,161 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:32,360 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:32,498 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:32,530 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:32,573 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: rbtnLinked
+2019-01-04 18:36:32,771 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:36:34,734 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:35,032 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:35,193 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:36,390 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:36,530 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:36,572 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:36,616 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalCompany_btnModal
+2019-01-04 18:36:36,689 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:36:43,437 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:43,620 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 18:36:44,853 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:36:45,044 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:45,086 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:36:45,130 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 18:36:45,658 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 18:36:45,743 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:36:46,789 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenSite
+2019-01-04 18:36:46,852 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:36:49,498 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:49,823 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:49,989 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:36:51,217 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:51,346 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:51,398 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:36:51,442 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalContact_btnModal
+2019-01-04 18:36:51,505 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:36:58,075 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:58,263 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 18:36:59,457 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:36:59,606 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:36:59,649 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:36:59,713 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenContact
+2019-01-04 18:36:59,775 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:37:02,677 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:37:03,061 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:37:03,193 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:37:04,410 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:37:04,585 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:37:04,616 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:37:04,659 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlRole
+2019-01-04 18:37:04,835 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Brand Manager"]
+2019-01-04 18:37:04,956 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Brand Manager
+2019-01-04 18:37:05,078 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalLinkContact_btnModal
+2019-01-04 18:37:05,140 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:37:11,705 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:37:11,973 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 18:37:13,203 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:37:13,350 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:37:13,385 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:37:13,451 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenContact
+2019-01-04 18:37:13,524 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:37:16,221 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:37:16,525 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:37:16,686 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:37:17,907 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:37:18,128 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:37:18,170 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:37:18,229 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlBrand
+2019-01-04 18:37:18,377 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "xyz"]
+2019-01-04 18:45:21,205 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:49663/
+2019-01-04 18:45:23,854 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2019-01-04 18:45:23,857 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2019-01-04 18:45:24,007 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2019-01-04 18:45:24,983 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2019-01-04 18:45:25,562 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2019-01-04 18:45:26,456 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2019-01-04 18:45:31,627 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2019-01-04 18:45:31,842 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2019-01-04 18:45:31,842 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2019-01-04 18:45:32,054 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2019-01-04 18:45:33,882 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2019-01-04 18:45:34,883 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 18:45:35,060 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:35,092 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2019-01-04 18:45:35,147 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 18:45:35,605 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 18:45:35,678 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:45:37,336 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2019-01-04 18:45:37,449 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2019-01-04 18:45:37,623 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:45:39,928 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyRelationship_Page - Navigate to Re;ationship tab
+2019-01-04 18:45:40,941 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:45:41,331 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:41,522 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:45:42,766 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:45:42,912 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:42,943 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:45:43,000 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_3
+2019-01-04 18:45:43,063 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Relationships (0)
+2019-01-04 18:45:45,128 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:45:45,417 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:45,561 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:45:46,787 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:45:46,930 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:46,961 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:45:48,004 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 18:45:48,118 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:48,151 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 18:45:48,215 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFRelationshipList_btnAddRelationship
+2019-01-04 18:45:48,278 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:45:50,368 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:45:50,653 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:50,818 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:45:52,086 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:45:52,228 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:52,270 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:45:52,313 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: rbtnLinked
+2019-01-04 18:45:52,493 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:45:54,330 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:45:54,641 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:54,786 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:45:56,011 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:45:56,168 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:45:56,200 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:45:56,244 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalCompany_btnModal
+2019-01-04 18:45:56,327 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:46:02,716 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:02,903 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 18:46:04,197 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:46:04,353 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:04,405 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:46:04,460 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2019-01-04 18:46:05,053 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2019-01-04 18:46:05,118 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:46:06,276 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenSite
+2019-01-04 18:46:06,349 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:46:08,918 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:09,295 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:09,472 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:10,700 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:10,874 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:10,905 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:10,961 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalContact_btnModal
+2019-01-04 18:46:11,036 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:46:17,434 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:17,618 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 18:46:18,866 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:46:19,024 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:19,061 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:46:19,130 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenContact
+2019-01-04 18:46:19,193 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:46:21,825 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:22,100 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:22,261 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:23,466 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:23,646 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:23,719 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:23,777 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlRole
+2019-01-04 18:46:23,999 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Brand Manager"]
+2019-01-04 18:46:24,115 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Brand Manager
+2019-01-04 18:46:24,273 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlModalLinkContact_btnModal
+2019-01-04 18:46:24,337 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:46:30,863 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:31,037 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: radOpenModalCallerCtl
+2019-01-04 18:46:32,231 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:46:32,400 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:32,431 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrContent
+2019-01-04 18:46:32,485 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input.ig_5aac757b_rcb1112.SelectionSearch.btnOpenContact
+2019-01-04 18:46:32,559 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:46:35,140 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:35,475 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:35,639 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:36,892 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:37,032 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:37,074 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:37,118 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlBrand
+2019-01-04 18:46:37,268 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Grimsby College"]
+2019-01-04 18:46:37,366 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Grimsby College
+2019-01-04 18:46:42,525 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ddlAccountStatus
+2019-01-04 18:46:42,693 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "OPEN"]
+2019-01-04 18:46:42,819 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Open
+2019-01-04 18:46:42,959 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: dcStartDate_iwdcDate_input
+2019-01-04 18:46:43,258 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: dcEndDate_iwdcDate_input
+2019-01-04 18:46:43,561 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyHistory_Page - Save Record
+2019-01-04 18:46:43,561 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnSave
+2019-01-04 18:46:43,894 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2019-01-04 18:46:47,909 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyRelationship_Page - Navigate to Re;ationship tab
+2019-01-04 18:46:48,921 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:49,231 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:49,387 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:50,621 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:50,754 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:50,786 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:50,829 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_5
+2019-01-04 18:46:50,891 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Notes (0)
+2019-01-04 18:46:52,903 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:53,225 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:53,382 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2019-01-04 18:46:54,605 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:54,776 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:54,807 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2019-01-04 18:46:55,851 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 18:46:55,977 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2019-01-04 18:46:56,018 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2019-01-04 18:46:56,083 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: table#G_FFRelationshipListxgrdCompanyRelationships > tbody > tr

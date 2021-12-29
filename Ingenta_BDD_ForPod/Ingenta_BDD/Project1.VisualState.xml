@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]D:\Projects\Ingenta_BDD\Project1.nunit</TopNode>
+  <SelectedNode>[0-1022]Ingenta.Test.SimpleScenario.UpdateBookingRefrence</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]D:\Projects\Ingenta_BDD\Project1.nunit" Expanded="true" />
+    <Node UniqueName="[0-1029]D:\Projects\Ingenta_BDD\Ingenta.Test\bin\Debug\Ingenta.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1030]Ingenta" Expanded="true" />
+    <Node UniqueName="[0-1031]Ingenta.Test" Expanded="true" />
+    <Node UniqueName="[0-1007]Ingenta.Test.Companies_CreateNewRecord_InformationTab" Expanded="true" />
+    <Node UniqueName="[0-1003]Ingenta.Test.Company_Finance" Expanded="true" />
+    <Node UniqueName="[0-1005]Ingenta.Test.Company_Hierarchies" Expanded="true" />
+    <Node UniqueName="[0-1001]Ingenta.Test.Company_History" Expanded="true" />
+    <Node UniqueName="[0-1009]Ingenta.Test.ComplexScenario_DisplayAd" Expanded="true" />
+    <Node UniqueName="[0-1015]Ingenta.Test.ComplexScenario_EndToEnd" Expanded="true" />
+    <Node UniqueName="[0-1011]Ingenta.Test.ComplexScenario_EventAd" Expanded="true" />
+    <Node UniqueName="[0-1013]Ingenta.Test.ComplexScenario_WebResidencyAd" Expanded="true" />
+    <Node UniqueName="[0-1032]Ingenta.Test.Feature" Expanded="true" />
+    <Node UniqueName="[0-1023]Ingenta.Test.Feature.Ingenta_CompanyFinanceFeature" Expanded="true" />
+    <Node UniqueName="[0-1025]Ingenta.Test.Feature.Ingenta_CompanyHistoryFeature" Expanded="true" />
+    <Node UniqueName="[0-1027]Ingenta.Test.Feature.Ingenta_CompanySearchFeature" Expanded="true" />
+    <Node UniqueName="[0-1017]Ingenta.Test.ModerateScenario" Expanded="true" />
+    <Node UniqueName="[0-1019]Ingenta.Test.ReleaseInventory" Expanded="true" />
+    <Node UniqueName="[0-1021]Ingenta.Test.SimpleScenario" Expanded="true" />
+  </Nodes>
+</VisualState>

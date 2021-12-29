@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\bin\Debug\Ingenta.Test.nunit</TopNode>
+  <SelectedNode>[0-1012]Ingenta.Test.SimpleScenario.UpdateBookingRefrence</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\bin\Debug\Ingenta.Test.nunit" Expanded="true" />
+    <Node UniqueName="[0-1017]D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\bin\Debug\Ingenta.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1018]Ingenta" Expanded="true" />
+    <Node UniqueName="[0-1019]Ingenta.Test" Expanded="true" />
+    <Node UniqueName="[0-1001]Ingenta.Test.ComplexScenario_DisplayAd" Expanded="true" />
+    <Node UniqueName="[0-1007]Ingenta.Test.ComplexScenario_EndToEnd" Expanded="true" />
+    <Node UniqueName="[0-1003]Ingenta.Test.ComplexScenario_EventAd" Expanded="true" />
+    <Node UniqueName="[0-1005]Ingenta.Test.ComplexScenario_WebResidencyAd" Expanded="true" />
+    <Node UniqueName="[0-1020]Ingenta.Test.Feature" Expanded="true" />
+    <Node UniqueName="[0-1015]Ingenta.Test.Feature.Ingenta_CompanySearchFeature" Expanded="true" />
+    <Node UniqueName="[0-1009]Ingenta.Test.ModerateScenario" Expanded="true" />
+    <Node UniqueName="[0-1011]Ingenta.Test.SimpleScenario" Expanded="true" />
+    <Node UniqueName="[0-1013]Ingenta.Test.Test" Expanded="true" />
+  </Nodes>
+</VisualState>

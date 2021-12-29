@@ -1,0 +1,119 @@
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3_x64.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.pdb
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.xml
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.xml
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.xml
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.xml
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.xml
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.dll
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.pdb
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3_x64.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.pdb
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.xml
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.xml
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.xml
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.xml
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.xml
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.csprojResolveAssemblyReference.cache
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.dll
+\\RAV-DSK-283\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.pdb
+D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.csprojResolveAssemblyReference.cache
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3_x64.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.pdb
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\TechTalk.SpecFlow.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.xml
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.xml
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.xml
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.xml
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.xml
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+D:\2018\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+D:\2018\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.dll
+D:\2018\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.pdb
+D:\2018\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.csprojResolveAssemblyReference.cache
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3_x64.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.pdb
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\System.ValueTuple.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\TechTalk.SpecFlow.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.xml
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.xml
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.xml
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.xml
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.xml
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+D:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+D:\Projects\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.dll
+D:\Projects\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.pdb
+D:\Projects\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.csprojResolveAssemblyReference.cache
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3_x64.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Ingenta.Framework.pdb
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\System.ValueTuple.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\AutoItX3.Assembly.xml
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\log4net.xml
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\nunit.framework.xml
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.xml
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\WebDriver.Support.xml
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Projects\Ingenta_BDD\Ingenta.Framework\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Projects\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.dll
+C:\Projects\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.pdb
+C:\Projects\Ingenta_BDD\Ingenta.Framework\obj\Debug\Ingenta.Framework.csprojResolveAssemblyReference.cache

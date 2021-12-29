@@ -1,0 +1,22 @@
+2018-10-25 19:05:50,679 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:61881/
+2018-10-25 19:05:54,370 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-25 19:05:54,373 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-25 19:05:54,419 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-25 19:05:55,300 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-10-25 19:05:55,617 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-10-25 19:05:56,202 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-25 19:06:04,746 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-25 19:07:46,228 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:62139/
+2018-10-25 19:07:49,487 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-25 19:07:49,489 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-25 19:07:49,534 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-25 19:07:50,034 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-10-25 19:07:50,331 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-10-25 19:07:50,847 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-25 19:07:59,574 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-25 19:09:00,188 [TestRunnerThread] ERROR Utility_Classes.Utility_Functions - Unable to get browser
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.GetScreenshot()
+   at Utility_Classes.Utility_Functions.TakeScreenshot(IWebDriver driver, String browserType, String testName) in D:\Projects\Ingenta_BDD\Ingenta.Framework\Utils\Utilities.cs:line 795 at line:808

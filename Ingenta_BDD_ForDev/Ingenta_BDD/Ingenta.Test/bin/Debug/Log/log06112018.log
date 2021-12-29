@@ -1,0 +1,2 @@
+2018-11-06 12:28:17,681 [TestRunnerThread] ERROR Utility_Classes.Utility_Functions - Object reference not set to an instance of an object.
+   at Utility_Classes.Utility_Functions.TakeScreenshot(IWebDriver driver, String browserType, String testName) in D:\Projects\Ingenta_BDD\Ingenta.Framework\Utils\Utilities.cs:line 795 at line:808

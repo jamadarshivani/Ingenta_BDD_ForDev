@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 971936,
+    "Username": "amit.gajinkar",
+    "Name": "Amit",
+    "Email": "amit.gajinkar@northgateps.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/f3b5eef9308372ae63bd55d0e75eb602?s=80&d=identicon",
+    "PrivateToken": "85a2bc00cf332ad6927521ec41402de24f3ecc1eca5aa5c7798a3538757c91e5",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

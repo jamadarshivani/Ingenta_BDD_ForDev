@@ -1,0 +1,440 @@
+2018-12-26 13:42:16,522 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:50044/
+2018-12-26 13:42:19,161 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 13:42:19,164 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 13:42:19,209 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 13:42:19,670 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 13:42:19,973 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 13:42:20,488 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 13:42:26,643 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 13:42:26,807 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 13:42:26,807 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 13:42:26,965 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 13:42:28,729 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 13:42:43,638 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:50157/
+2018-12-26 13:42:46,024 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 13:42:46,024 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 13:42:46,066 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 13:42:46,572 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 13:42:46,885 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 13:42:47,344 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 13:42:52,466 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 13:42:52,606 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 13:42:52,606 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 13:42:52,762 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 13:42:54,435 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by E - Mail
+2018-12-26 13:42:55,436 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 13:42:55,584 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 13:42:55,616 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 13:42:55,671 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect4_txtValue1
+2018-12-26 13:42:56,088 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 13:42:56,195 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 13:42:57,896 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 13:44:02,971 [TestRunnerThread] ERROR Utility_Classes.Utility_Functions - Object reference not set to an instance of an object.
+   at Utility_Classes.Utility_Functions.TakeScreenshot(IWebDriver driver, String browserType, String testName) in D:\Projects\Ingenta_BDD\Ingenta.Framework\Utils\Utilities.cs:line 795 at line:808
+2018-12-26 13:44:19,129 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:50387/
+2018-12-26 13:44:21,766 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 13:44:21,766 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 13:44:21,808 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 13:44:22,300 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 13:44:22,680 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 13:44:23,157 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 13:44:29,288 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 13:44:29,441 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 13:44:29,441 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 13:44:29,593 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 13:44:31,272 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by Company Name
+2018-12-26 13:44:32,272 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 13:44:32,395 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 13:44:32,427 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 13:44:32,481 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect6_txtValue1
+2018-12-26 13:44:32,881 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 13:44:33,018 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 13:44:34,619 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 13:44:49,205 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:50503/
+2018-12-26 13:44:51,861 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 13:44:51,861 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 13:44:51,903 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 13:44:52,365 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 13:44:52,629 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 13:44:53,090 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 13:44:59,286 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 13:44:59,435 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 13:44:59,435 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 13:44:59,602 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 13:45:01,334 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by Postal Code
+2018-12-26 13:45:02,334 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 13:45:02,483 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 13:45:02,515 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 13:45:02,569 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect7_txtValue1
+2018-12-26 13:45:02,920 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 13:45:03,015 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 13:45:05,473 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 14:55:05,528 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:56889/
+2018-12-26 14:55:08,047 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 14:55:08,050 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 14:55:08,123 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 14:55:08,910 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 14:55:09,325 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 14:55:09,952 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 14:55:16,232 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 14:55:16,728 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 14:55:16,728 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 14:55:16,916 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 14:55:46,484 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 14:56:47,016 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:57269/
+2018-12-26 14:56:49,547 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 14:56:49,550 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 14:56:49,621 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 14:56:50,405 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 14:56:50,880 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 14:56:51,570 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 14:56:57,887 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 14:56:58,101 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 14:56:58,101 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 14:56:58,291 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 14:58:37,387 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:57535/
+2018-12-26 14:58:39,919 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 14:58:39,922 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 14:58:39,994 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 14:58:40,593 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 14:58:40,995 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 14:58:41,629 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 14:58:47,874 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 14:58:48,075 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 14:58:48,075 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 14:58:48,239 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 14:58:49,943 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by JobTtile
+2018-12-26 14:58:50,943 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 14:58:51,085 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 14:58:51,117 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 14:58:51,187 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect3_txtValue1
+2018-12-26 14:58:51,718 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 14:58:51,791 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 14:58:53,480 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:00:03,071 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:57794/
+2018-12-26 15:00:05,573 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:00:05,576 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:00:05,634 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:00:06,330 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:00:06,745 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:00:07,406 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:00:13,669 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:00:13,836 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:00:13,836 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:00:14,034 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:00:15,855 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by JobTtile
+2018-12-26 15:00:16,857 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:00:16,963 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:00:16,994 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:00:17,071 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect3_txtValue1
+2018-12-26 15:00:17,722 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:00:17,784 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:00:31,839 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:02:05,862 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:58215/
+2018-12-26 15:02:08,680 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:02:08,685 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:02:08,815 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:02:09,887 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:02:10,459 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:02:11,389 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:02:16,787 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:02:17,110 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:02:17,110 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:02:17,505 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:02:19,671 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by E - Mail
+2018-12-26 15:02:20,671 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:02:20,796 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:02:20,838 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:02:20,903 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect4_txtValue1
+2018-12-26 15:02:21,623 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:02:21,760 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:02:32,438 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:03:31,969 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:58527/
+2018-12-26 15:03:34,601 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:03:34,605 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:03:34,757 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:03:35,972 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:03:36,529 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:03:37,440 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:03:43,889 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:03:44,231 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:03:44,231 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:03:44,590 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:03:46,433 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by Telephone
+2018-12-26 15:03:47,433 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:03:47,603 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:03:47,645 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:03:47,723 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect5_txtValue1
+2018-12-26 15:03:48,450 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:03:48,582 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:04:00,235 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:05:01,416 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:58848/
+2018-12-26 15:05:04,091 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:05:04,095 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:05:04,202 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:05:05,743 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:05:06,551 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:05:07,658 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:05:14,171 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:05:14,509 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:05:14,509 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:05:14,804 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:05:16,857 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by Company Name
+2018-12-26 15:05:17,858 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:05:18,067 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:05:18,151 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:05:18,240 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect6_txtValue1
+2018-12-26 15:05:19,035 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:05:19,168 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:05:34,097 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:06:56,582 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:59245/
+2018-12-26 15:06:59,371 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:06:59,375 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:06:59,473 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:07:00,775 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:07:01,356 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:07:02,418 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:07:09,359 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:07:09,746 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:07:09,746 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:07:10,056 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:07:10,446 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by Postal Code
+2018-12-26 15:07:11,447 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:07:47,691 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:07:47,745 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:07:47,853 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect7_txtValue1
+2018-12-26 15:07:49,206 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:07:49,406 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:08:04,455 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:09:14,881 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:59624/
+2018-12-26 15:09:18,346 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:09:18,351 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:09:18,459 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:09:19,460 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:09:19,992 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:09:20,802 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:09:27,159 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:09:27,571 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:09:27,572 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:09:27,800 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:09:30,203 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by Postal Code
+2018-12-26 15:09:31,204 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:09:31,370 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:09:31,413 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:09:31,483 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect7_txtValue1
+2018-12-26 15:09:31,960 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:09:32,063 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:09:34,513 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:15:20,776 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:60327/
+2018-12-26 15:15:23,384 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:15:23,388 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:15:23,467 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:15:24,561 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:15:25,074 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:15:25,846 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:15:31,098 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:15:31,355 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:15:31,356 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:15:31,579 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:15:33,400 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by Country
+2018-12-26 15:15:34,407 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:15:34,556 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:15:34,600 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:15:34,669 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect8_lstValues1
+2018-12-26 15:15:34,959 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "United States"]
+2018-12-26 15:15:35,183 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: United States
+2018-12-26 15:15:35,382 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:15:35,466 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:15:45,076 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:30:33,857 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:62052/
+2018-12-26 15:30:37,354 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:30:37,358 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:30:37,429 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:30:38,142 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:30:38,531 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:30:39,131 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:30:45,406 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:30:45,594 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:30:45,594 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:30:45,759 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:30:49,369 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Search In Active Contacts
+2018-12-26 15:30:50,369 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:30:50,480 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:30:50,522 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:30:50,576 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect9_checkBox
+2018-12-26 15:30:50,761 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:30:50,983 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:30:51,057 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:30:54,001 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2018-12-26 15:30:54,124 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:30:54,266 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:30:59,542 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 15:32:15,108 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:62362/
+2018-12-26 15:32:17,652 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:32:17,652 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:32:17,720 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:32:18,338 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:32:18,711 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:32:19,334 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:32:25,591 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:32:25,795 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:32:25,795 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:32:25,973 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:32:27,690 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Search the active Contacts
+2018-12-26 15:32:28,695 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:32:28,820 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:32:28,852 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:32:28,904 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect9_checkBox
+2018-12-26 15:32:29,028 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:32:29,137 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:32:31,410 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2018-12-26 15:32:31,542 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:32:31,746 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:32:36,077 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 15:48:05,935 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:64043/
+2018-12-26 15:48:08,920 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:48:08,923 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:48:08,982 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:48:09,774 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:48:10,215 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:48:10,942 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:48:16,191 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:48:16,399 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:48:16,399 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:48:16,597 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:48:18,280 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Search the active Contacts
+2018-12-26 15:48:19,281 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:48:19,438 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:48:19,481 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:48:19,535 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect9_checkBox
+2018-12-26 15:48:19,647 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:48:19,793 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:48:25,947 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2018-12-26 15:48:26,090 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:48:26,284 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:48:32,296 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 15:48:32,581 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:48:32,686 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 15:48:34,502 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 15:48:34,704 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:48:34,735 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 15:48:35,603 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnPersonStatus
+2018-12-26 15:49:18,155 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:64345/
+2018-12-26 15:49:20,529 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 15:49:20,532 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 15:49:20,607 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 15:49:21,304 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 15:49:21,716 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 15:49:22,407 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 15:49:27,610 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 15:49:27,798 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 15:49:27,798 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 15:49:28,015 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 15:49:29,759 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Search In Active Contacts
+2018-12-26 15:49:30,760 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:49:30,912 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:49:30,944 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 15:49:30,998 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect9_checkBox
+2018-12-26 15:49:31,180 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:49:31,423 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 15:49:31,496 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:49:33,394 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2018-12-26 15:49:33,536 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 15:49:33,739 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 15:49:37,127 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 15:49:37,364 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:49:37,483 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 15:49:38,628 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 15:49:38,770 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 15:49:38,801 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 15:49:38,857 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnPersonStatus
+2018-12-26 17:21:32,309 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:56773/
+2018-12-26 17:21:34,898 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 17:21:34,902 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 17:21:34,960 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 17:21:35,633 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 17:21:36,047 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 17:21:36,778 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 17:21:43,105 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 17:21:43,287 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 17:21:43,287 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 17:21:43,488 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 17:21:45,183 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2018-12-26 17:21:46,188 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 17:21:46,302 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:21:46,334 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 17:21:46,400 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2018-12-26 17:21:46,816 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 17:21:46,890 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 17:21:48,555 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2018-12-26 17:21:48,658 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 17:21:48,811 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 17:21:54,833 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyHistory_Page - Navigate to History tab
+2018-12-26 17:21:57,641 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 17:21:57,935 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:21:58,064 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 17:21:59,802 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 17:21:59,951 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:21:59,982 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 17:22:00,618 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_2
+2018-12-26 17:22:01,845 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Responsibilities (0)
+2018-12-26 17:22:15,266 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 17:22:15,516 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:22:15,638 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 17:22:17,379 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 17:22:17,541 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:22:17,572 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 17:22:19,069 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2018-12-26 17:22:19,292 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:22:19,334 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2018-12-26 17:22:20,055 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistory_ibtnAddCall
+2018-12-26 17:26:56,041 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:57571/
+2018-12-26 17:26:59,107 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-12-26 17:26:59,110 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-12-26 17:26:59,179 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-12-26 17:26:59,826 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-12-26 17:27:00,217 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-12-26 17:27:00,847 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-12-26 17:27:08,202 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-12-26 17:27:08,380 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to Contacts
+2018-12-26 17:27:08,380 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: CONTACT
+2018-12-26 17:27:08,544 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Contacts
+2018-12-26 17:27:12,091 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Contacts_SearchContact - Searching contact by LastName
+2018-12-26 17:27:13,091 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 17:27:13,245 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:27:13,277 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-12-26 17:27:13,331 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_FieldSelect0_txtValue1
+2018-12-26 17:27:13,727 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_GoButton
+2018-12-26 17:27:13,789 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 17:27:16,485 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SearchxresultsGrid_r_0
+2018-12-26 17:27:16,600 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: tr#SearchxresultsGrid_r_0 > td
+2018-12-26 17:27:16,733 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-12-26 17:27:20,153 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyHistory_Page - Navigate to History tab
+2018-12-26 17:27:21,165 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 17:27:21,430 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:27:21,526 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 17:27:22,669 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 17:27:22,802 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:27:22,834 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 17:27:22,898 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_1
+2018-12-26 17:27:22,991 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: History
+2018-12-26 17:27:24,907 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 17:27:25,130 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:27:25,243 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-12-26 17:27:26,403 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 17:27:26,525 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:27:26,556 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-12-26 17:27:27,601 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2018-12-26 17:27:27,758 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-12-26 17:27:27,800 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrPages
+2018-12-26 17:27:27,854 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistory_ibtnAddCall
+2018-12-26 17:27:27,968 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: FFHistory$ibtnAddBooking
+2018-12-26 17:27:28,088 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistory_ibtnInventorySelection
+2018-12-26 17:27:28,188 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistory_ibtnRefresh
+2018-12-26 17:27:28,289 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistory_ffdcShowHistoryFrom_dteDate_input
+2018-12-26 17:27:28,388 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistory_ddlFilterBy
+2018-12-26 17:27:28,494 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistoryxgrdHistory_c_0_7
+2018-12-26 17:27:28,567 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistoryxgrdHistory_c_0_8
+2018-12-26 17:27:28,629 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistoryxgrdHistory_c_0_9
+2018-12-26 17:27:28,691 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistoryxgrdHistory_c_0_10
+2018-12-26 17:27:28,753 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: FFHistoryxgrdHistory_c_0_11

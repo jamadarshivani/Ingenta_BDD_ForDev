@@ -1,0 +1,113 @@
+2018-07-31 12:44:59,808 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:61536/
+2018-07-31 12:45:03,620 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://addepot10demo.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-07-31 12:45:03,620 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-07-31 12:45:03,725 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_UserName
+2018-07-31 12:45:04,822 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_Password
+2018-07-31 12:45:06,231 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_LoginButton
+2018-07-31 12:45:06,826 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-07-31 12:45:07,190 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-07-31 12:45:14,409 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-07-31 12:45:14,733 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: SEARCH
+2018-07-31 12:45:14,914 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Companies
+2018-07-31 12:45:18,856 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-07-31 12:45:19,034 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-07-31 12:45:19,075 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrSelection
+2018-07-31 12:45:19,139 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: Search_SearchBar_btnUser
+2018-07-31 12:45:19,373 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-07-31 12:45:23,146 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyInformation_Page - Navigate to Information tab
+2018-07-31 12:45:24,146 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-07-31 12:45:24,356 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-07-31 12:45:24,476 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: RightPane
+2018-07-31 12:45:27,652 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-07-31 12:45:27,795 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: iframe
+2018-07-31 12:45:27,826 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ifrDetail
+2018-07-31 12:45:27,879 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_0_Item_0
+2018-07-31 12:45:28,046 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Information
+2018-07-31 12:45:28,449 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtCompanyName
+2018-07-31 12:45:29,567 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtMarketName
+2018-07-31 12:45:30,714 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtAlias
+2018-07-31 12:45:32,247 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtAddressLine1
+2018-07-31 12:45:33,955 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtAddressLine2
+2018-07-31 12:45:35,137 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtAddressLine3
+2018-07-31 12:45:36,803 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtAddressLine4
+2018-07-31 12:45:38,688 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtTown
+2018-07-31 12:45:40,747 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtRegion
+2018-07-31 12:45:41,864 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtPostcode
+2018-07-31 12:45:43,074 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_ddlCountry
+2018-07-31 12:45:43,919 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: option
+2018-07-31 12:46:00,897 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: United States
+2018-07-31 12:46:03,114 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_ddlLanguage
+2018-07-31 12:46:03,560 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: option
+2018-07-31 12:46:05,899 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: English
+2018-07-31 12:46:08,018 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtInterComp
+2018-07-31 12:46:08,570 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtTelephone
+2018-07-31 12:46:09,391 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtMobile
+2018-07-31 12:46:10,193 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtFax
+2018-07-31 12:46:11,106 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtEmail
+2018-07-31 12:46:12,106 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtWebsite
+2018-07-31 12:46:13,307 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtFaceBookURL
+2018-07-31 12:46:14,246 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtLinkedInURL
+2018-07-31 12:46:15,198 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_txtBLOGURL
+2018-07-31 12:46:16,083 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: //*[@id='ucCompanyDetail_ddlCompanyType']
+2018-07-31 12:46:16,849 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: option
+2018-07-31 12:46:17,647 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Advertiser
+2018-07-31 12:46:19,978 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_ddlAgencyType
+2018-07-31 12:46:20,367 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: option
+2018-07-31 12:46:20,695 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: AD Agent
+2018-07-31 12:46:22,827 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_ddlSiteStatus
+2018-07-31 12:46:23,089 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: option
+2018-07-31 12:46:23,315 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Active
+2018-07-31 12:46:25,415 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page - Save Record
+2018-07-31 12:46:25,415 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnSave
+2018-07-31 12:46:25,749 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-07-31 12:46:30,782 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyHierarchies_Page - Click on override
+2018-07-31 12:46:30,782 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnOverride
+2018-07-31 12:46:31,128 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-07-31 12:46:36,450 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page - Navigate to Finance tab
+2018-07-31 12:46:36,450 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_2_Item_0
+2018-07-31 12:46:36,723 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Finance
+2018-07-31 12:46:37,090 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page - Finance Details
+2018-07-31 12:46:37,090 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_txtTaxRegistration
+2018-07-31 12:46:37,924 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_txtTaxExemption
+2018-07-31 12:46:38,867 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_txtRegistrationNumber
+2018-07-31 12:46:39,636 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_ddlTaxStatus
+2018-07-31 12:46:39,991 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Standard Tax Rate"]
+2018-07-31 12:46:40,511 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Standard Tax Rate
+2018-07-31 12:46:40,830 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_ddlCurrency
+2018-07-31 12:46:41,141 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "US Dollars"]
+2018-07-31 12:46:41,418 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: US Dollars
+2018-07-31 12:46:41,530 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_ddlConsOpt
+2018-07-31 12:46:41,657 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "By Booking"]
+2018-07-31 12:46:41,772 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: By Booking
+2018-07-31 12:46:41,880 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_ddlInvoiceLevel
+2018-07-31 12:46:41,997 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[normalize-space(.) = "Simple"]
+2018-07-31 12:46:42,121 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Simple
+2018-07-31 12:46:42,236 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_chkCustRefMandatory
+2018-07-31 12:46:42,310 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-07-31 12:46:42,785 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_chkAccrueAgencyCommission
+2018-07-31 12:46:43,002 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-07-31 12:46:43,512 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page - Save Record
+2018-07-31 12:46:43,512 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: btnSave
+2018-07-31 12:46:44,050 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-07-31 12:46:49,179 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page - Verify Information Page
+2018-07-31 12:46:49,179 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucCompanyDetail_lblInfo
+2018-07-31 12:46:49,340 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page - Navigate to Finance tab
+2018-07-31 12:46:49,340 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: iglbarMenu_2_Item_0
+2018-07-31 12:46:49,452 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Finance
+2018-07-31 12:46:49,806 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page - Verify Finance Details
+2018-07-31 12:46:49,806 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ucFinanceDetail_txtRegistrationNumber
+2018-07-31 12:46:50,048 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page -   Expected string length 8 but was 0. Strings differ at index 0.
+  Expected: "TAX12345"
+  But was:  <string.Empty>
+  -----------^
+
+
+2018-07-31 12:46:50,081 [TestRunnerThread] INFO  Ingenta.Framework.Pages.CompanyFinance_Page -    at NUnit.Framework.Assert.That(Object actual, IResolveConstraint expression, String message, Object[] args)
+   at NUnit.Framework.Assert.AreEqual(Object expected, Object actual)
+   at Ingenta.Framework.Pages.CompanyFinance_Page.verifyFinanceDetails() in D:\Projects\Ingenta_BDD\Ingenta.Framework\Pages\CompanyFinance_Page.cs:line 136
+2018-07-31 12:46:50,082 [TestRunnerThread] INFO  Ingenta.Test.Company_Finance - Test Failed...
+
+2018-07-31 12:46:50,087 [TestRunnerThread] INFO  Ingenta.Test.Company_Finance -    at NUnit.Framework.Assert.Fail(String message, Object[] args)
+   at NUnit.Framework.Assert.Fail(String message)
+   at Ingenta.Framework.Pages.CompanyFinance_Page.verifyFinanceDetails() in D:\Projects\Ingenta_BDD\Ingenta.Framework\Pages\CompanyFinance_Page.cs:line 142
+   at Ingenta.Test.Company_Finance.NewCompany_Finance() in D:\Projects\Ingenta_BDD\Ingenta.Test\Companies\Company_Finance.cs:line 56

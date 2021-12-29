@@ -1,0 +1,118 @@
+2018-10-11 12:38:35,510 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:51036/
+2018-10-11 12:38:58,705 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/
+2018-10-11 13:12:06,506 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:55572/
+2018-10-11 13:12:10,987 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 13:12:31,417 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 13:12:31,472 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_UserName
+2018-10-11 13:12:32,881 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_Password
+2018-10-11 13:12:33,201 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_LoginButton
+2018-10-11 13:12:33,325 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 14:33:14,554 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:49783/
+2018-10-11 14:33:18,147 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 14:33:18,148 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 14:33:18,192 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_UserName
+2018-10-11 14:33:18,657 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_Password
+2018-10-11 14:33:18,954 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_LoginButton
+2018-10-11 14:33:19,096 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 14:33:19,283 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-10-11 14:34:24,452 [TestRunnerThread] INFO  Ingenta.Test.SimpleScenario - Timed out after 60 seconds
+
+2018-10-11 14:34:24,559 [TestRunnerThread] INFO  Ingenta.Test.SimpleScenario -    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at Ingenta.Framework.Pages.Dashboard_Page.ingentaDashboardVerify() in D:\Projects\Ingenta_BDD\Ingenta.Framework\Pages\Dashboard_Page.cs:line 54
+   at Ingenta.Test.SimpleScenario.UpdateBookingRefrence() in D:\Projects\Ingenta_BDD\Ingenta.Test\SimpleScenario.cs:line 53
+2018-10-11 15:50:16,019 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:60458/
+2018-10-11 15:50:19,440 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 15:50:19,441 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 15:50:25,632 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_UserName
+2018-10-11 15:51:17,394 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:60785/
+2018-10-11 15:51:20,115 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 15:51:20,116 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 15:51:22,083 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_UserName
+2018-10-11 15:51:23,871 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_Password
+2018-10-11 15:51:28,797 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_LoginButton
+2018-10-11 15:51:28,939 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 15:53:13,748 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:61217/
+2018-10-11 15:53:17,449 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 15:53:17,450 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 15:53:17,496 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_UserName
+2018-10-11 15:53:18,012 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_Password
+2018-10-11 15:53:18,331 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-10-11 15:53:18,463 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 16:12:46,451 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:64053/
+2018-10-11 16:12:49,707 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 16:12:53,869 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 16:12:54,793 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-11 16:13:00,249 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_Password
+2018-10-11 16:13:03,075 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-10-11 16:13:03,221 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 16:14:39,656 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:64522/
+2018-10-11 16:14:43,079 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 16:14:47,065 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 16:14:47,461 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-11 16:14:48,934 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_Password
+2018-10-11 16:14:51,022 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-10-11 16:14:51,158 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 16:14:52,051 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 16:16:46,929 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:64944/
+2018-10-11 16:16:50,382 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 16:16:50,383 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 16:16:50,429 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-11 16:16:50,887 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_Password
+2018-10-11 16:16:51,159 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-10-11 16:16:51,469 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 16:16:51,765 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 16:18:33,374 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:65261/
+2018-10-11 16:18:37,108 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 16:18:37,111 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 16:18:37,155 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-11 16:18:37,624 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_Password
+2018-10-11 16:18:38,003 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-10-11 16:18:38,580 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Verify user is on dashboard
+2018-10-11 16:18:45,814 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-10-11 16:18:46,063 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Dashboard_Page - Navigate to My Booking
+2018-10-11 16:18:46,063 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: BOOKING
+2018-10-11 16:18:46,251 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: My Bookings
+2018-10-11 16:18:48,415 [TestRunnerThread] INFO  Ingenta.Framework.Pages.MyBooking_Page - Selecting Booking Reference
+2018-10-11 16:18:53,416 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: table[id*='cphMain_grdRecentBookings']>tbody>tr
+2018-10-11 16:18:53,570 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: input
+2018-10-11 16:18:53,849 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: table[id*='cphMain_grdRecentBookings']>tbody>tr
+2018-10-11 16:18:53,900 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td:nth-child(2) input[type='image']
+2018-10-11 16:18:54,185 [TestRunnerThread] INFO  Ingenta.Framework.Pages.MyBooking_Page - Warning Icon Not Present for Record:=1
+2018-10-11 16:18:54,185 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: table[id*='cphMain_grdRecentBookings']>tbody>tr
+2018-10-11 16:18:54,238 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td>a
+2018-10-11 16:18:54,331 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: table[id*='cphMain_grdRecentBookings']>tbody>tr
+2018-10-11 16:18:54,393 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: td>a
+2018-10-11 16:18:54,526 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctl00_cphMain_txtBookingRef
+2018-10-11 16:18:59,134 [TestRunnerThread] INFO  Ingenta.Framework.Pages.BookingDetails_Page - Save And Close the Record
+2018-10-11 16:18:59,134 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctl00_cphMain_ucRibbon_btnSaveAndClose
+2018-10-11 16:18:59,197 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-10-11 16:19:01,382 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input[name='ctl07']
+2018-10-11 16:19:01,725 [TestRunnerThread] INFO  Ingenta.Test.SimpleScenario - Unable to find element with css selector == input[name='ctl07']
+
+2018-10-11 16:19:01,760 [TestRunnerThread] INFO  Ingenta.Test.SimpleScenario -    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByCssSelector(String cssSelector)
+   at OpenQA.Selenium.By.<>c__DisplayClass23_0.<CssSelector>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.FindElement(By by)
+   at Ingenta.Framework.Pages.BookingDetails_Page.ClickHomeButton() in D:\Projects\Ingenta_BDD\Ingenta.Framework\Pages\BookingDetails_Page.cs:line 74
+   at Ingenta.Test.SimpleScenario.UpdateBookingRefrence() in D:\Projects\Ingenta_BDD\Ingenta.Test\SimpleScenario.cs:line 63
+2018-10-11 16:20:13,928 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:49291/
+2018-10-11 16:20:17,288 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 16:20:17,292 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 16:20:17,338 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-11 16:20:17,801 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_Password
+2018-10-11 16:20:18,109 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton
+2018-10-11 16:48:51,290 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:53300/
+2018-10-11 16:48:54,628 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 16:48:54,631 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 16:48:54,675 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin$UserName
+2018-10-11 16:50:33,244 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:53741/
+2018-10-11 16:50:36,453 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://iaautodev.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-10-11 16:50:36,456 [TestRunnerThread] INFO  Ingenta.Framework.Pages.Login_Page - Performing login
+2018-10-11 16:50:36,500 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_UserName
+2018-10-11 16:50:36,980 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Name: ctlLogin$Password
+2018-10-11 16:50:37,268 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctlLogin_LoginButton

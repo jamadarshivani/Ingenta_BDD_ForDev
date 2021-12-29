@@ -1,0 +1,25 @@
+2018-04-03 18:00:21,836 [TestRunnerThread] ERROR Utility_Classes.Utility_Functions - chrome not reachable
+  (Session info: chrome=66.0.3359.66)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.1.7601 SP1 x86_64) (100)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at Utility_Classes.Utility_Functions.TakeScreenshot(IWebDriver driver, String browserType, String testName) in D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\Utils\Utilities.cs:line 795 at line:808
+2018-04-03 18:08:13,025 [TestRunnerThread] INFO  Ingenta.Test.SimpleScenario - This is setup
+2018-04-03 19:51:22,887 [TestRunnerThread] INFO  EventFire - Before Navigating to ::::::::::::::::::::::::: http://localhost:52388/
+2018-04-03 19:51:31,059 [TestRunnerThread] INFO  EventFire - Navigated to ::::::::::::::::::::::::: https://addepot10demo.addepotcloud.com/Account/FederatedLogin.aspx?ReturnUrl=%2f
+2018-04-03 19:51:31,227 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_UserName
+2018-04-03 19:51:33,332 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_Password
+2018-04-03 19:51:34,289 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: input#ctlLogin_LoginButton
+2018-04-03 19:51:34,624 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: 
+2018-04-03 19:51:45,425 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: div#pnlButtons>a
+2018-04-03 19:51:45,940 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: BOOKING
+2018-04-03 19:51:46,145 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: My Bookings
+2018-04-03 19:51:49,563 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.Id: ctl00_cphMain_ddlUsers_DropDownList1
+2018-04-03 19:51:50,981 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.XPath: .//option[@value = "94"]
+2018-04-03 19:51:51,727 [TestRunnerThread] INFO  EventFire - Interacting with element with Text :::::::::::::::::::: Alan Shearer (s/p)
+2018-04-03 19:51:57,442 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: table[id*='cphMain_grdRecentBookings']>tbody>tr
+2018-04-03 19:51:57,566 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: td
+2018-04-03 19:51:57,681 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: a
+2018-04-03 19:52:09,044 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.CssSelector: table[id*='cphMain_grdRecentBookings']>tbody>tr
+2018-04-03 19:52:29,320 [TestRunnerThread] INFO  EventFire - Interacting with element  :::::::::::::::::::: By.TagName: input

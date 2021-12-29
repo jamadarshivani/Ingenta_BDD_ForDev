@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6C5934D7-0DC5-452D-B4FC-76D37AF017C8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ingenta.Test</RootNamespace>
+    <AssemblyName>Ingenta.Test</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoItX3.Assembly, Version=3.0.0.0, Culture=neutral, PublicKeyToken=a646454c8d475470, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoItX.Dotnet.3.3.14.2\lib\AutoItX3.Assembly.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Encoder, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86" />
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.6.4.14350, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.ValueTuple, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.3.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TechTalk.SpecFlow, Version=2.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpecFlow.2.1.0\lib\net45\TechTalk.SpecFlow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WebDriver, Version=3.9.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.WebDriver.3.9.1\lib\net45\WebDriver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WebDriver.Support, Version=3.9.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.Support.3.9.1\lib\net45\WebDriver.Support.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Step_Defination\CompanySearchHeaderSectionSteps.cs" />
+    <Compile Include="Feature\Company\Company_AdTemplates1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_AdTemplates.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_Attachments1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_Attachments.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_Brands1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_Brands.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_Creation1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_Creation.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\ExternalReferences.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExternalReferences.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_HeaderSection1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_HeaderSection.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_History1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_History.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_LandingPage1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_LandingPage.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_Notes1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_Notes.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_Opportunities1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_Opportunities.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_Relationships1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_Relationships.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_Responsibilities1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_Responsibilities.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_SalesAssignment1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_SalesAssignment.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_Territories1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_Territories.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\Company_UserForms1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Company_UserForms.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Contacs\Contact_Creation.feature.cs">
+      <DependentUpon>Contact_Creation.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactDocuments.feature.cs">
+      <DependentUpon>ContactDocuments.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactCampaign.feature.cs">
+      <DependentUpon>ContactCampaign.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactWebUser.feature.cs">
+      <DependentUpon>ContactWebUser.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactAttachments.feature.cs">
+      <DependentUpon>ContactAttachments.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactNotes.feature.cs">
+      <DependentUpon>ContactNotes.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactOpportunities.feature.cs">
+      <DependentUpon>ContactOpportunities.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactRelationships.feature.cs">
+      <DependentUpon>ContactRelationships.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactResponsibilities.feature.cs">
+      <DependentUpon>ContactResponsibilities.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactHistory.feature.cs">
+      <DependentUpon>ContactHistory.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactSearch.feature.cs">
+      <DependentUpon>ContactSearch.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchHeaderSection.feature.cs">
+      <DependentUpon>CompanySearchHeaderSection.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Step_Defination\ContactHeaderSectionSteps.cs" />
+    <Compile Include="Step_Defination\DocumentsSteps.cs" />
+    <Compile Include="Step_Defination\Companies_ExternalReferencesSteps.cs" />
+    <Compile Include="Step_Defination\CompanyAttachmentsSteps.cs" />
+    <Compile Include="Step_Defination\CompanyBrandsSteps.cs" />
+    <Compile Include="Step_Defination\CompanyHistorySteps.cs" />
+    <Compile Include="Step_Defination\CompanyLandingPageSteps.cs" />
+    <Compile Include="Step_Defination\CompanyRelationshipsSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchAdTemplatesSteps.cs" />
+    <Compile Include="Feature\Company\CompanySearchFinance.feature.cs">
+      <DependentUpon>CompanySearchFinance.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchAdTemplates.feature.cs">
+      <DependentUpon>CompanySearchAdTemplates.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchUserForms.feature.cs">
+      <DependentUpon>CompanySearchUserForms.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Step_Defination\CompanySearchSalesAssignmentsSteps.cs" />
+    <Compile Include="Feature\Company\CompanySearchTerritories.feature.cs">
+      <DependentUpon>CompanySearchTerritories.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchSalesAssignments.feature.cs">
+      <DependentUpon>CompanySearchSalesAssignments.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Step_Defination\CompanySearchExternalReferencesSteps.cs" />
+    <Compile Include="Feature\Company\CompanySearchAttachments.feature.cs">
+      <DependentUpon>CompanySearchAttachments.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchResponsibilities.feature.cs">
+      <DependentUpon>CompanySearchResponsibilities.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchOpportunities.feature.cs">
+      <DependentUpon>CompanySearchOpportunities.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchExternalReference.feature.cs">
+      <DependentUpon>CompanySearchExternalReference.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchNotes.feature.cs">
+      <DependentUpon>CompanySearchNotes.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchRelationships.feature.cs">
+      <DependentUpon>CompanySearchRelationships.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchBrands.feature.cs">
+      <DependentUpon>CompanySearchBrands.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchContacts.feature.cs">
+      <DependentUpon>CompanySearchContacts.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchHistory.feature.cs">
+      <DependentUpon>CompanySearchHistory.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchHierarchies.feature.cs">
+      <DependentUpon>CompanySearchHierarchies.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearch.feature.cs">
+      <DependentUpon>CompanySearch.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanyContacts.feature.cs">
+      <DependentUpon>CompanyContacts.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanySearchInformation.feature.cs">
+      <DependentUpon>CompanySearchInformation.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Contacs\ContactsLandingPage.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ContactsLandingPage.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Feature\Company\CompanyFinance.feature.cs">
+      <DependentUpon>CompanyFinance.feature</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Feature\Company\CompanyHierarchies.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CompanyHierarchies.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Step_Defination\CompanyContacts.cs" />
+    <Compile Include="Step_Defination\CompanySearchAttachmentsSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchBrandsSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchNotesSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchOpportunitiesSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchRelationshipsSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchResponsibilitiesSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchTerritoriesSteps.cs" />
+    <Compile Include="Step_Defination\CompanySearchUserFormsSteps.cs" />
+    <Compile Include="Step_Defination\CampaignSteps.cs" />
+    <Compile Include="Step_Defination\WebUserSteps.cs" />
+    <Compile Include="Step_Defination\Company_AdTemplatesSteps.cs" />
+    <Compile Include="Step_Defination\Company_InformationSteps.cs" />
+    <Compile Include="Step_Defination\Company_NotesSteps.cs" />
+    <Compile Include="Step_Defination\Company_OpportunitiesSteps.cs" />
+    <Compile Include="Step_Defination\Company_ResponsibilitiesSteps.cs" />
+    <Compile Include="Step_Defination\Company_SalesAssignmentSteps.cs" />
+    <Compile Include="Step_Defination\Company_TerritoriesSteps.cs" />
+    <Compile Include="Step_Defination\Company_UserFormsSteps.cs" />
+    <Compile Include="Step_Defination\Contacts_SearchContactSteps.cs" />
+    <Compile Include="Step_Defination\Contacts_LandingPageSteps.cs" />
+    <Compile Include="Step_Defination\CompanyHierarchy.cs" />
+    <Compile Include="Step_Defination\CompanyFinance.cs" />
+    <Compile Include="Step_Defination\CompanyHistory.cs" />
+    <Compile Include="Step_Defination\CreatingCompanySteps.cs" />
+    <Compile Include="Step_Defination\IngentaCompanyFinance.cs" />
+    <Compile Include="Step_Defination\IngentaCompanyHistory.cs" />
+    <Compile Include="Step_Defination\IngentaCompanySearchSteps.cs" />
+    <Compile Include="Utils\Start.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Feature\Company\Company_AdTemplates.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_AdTemplates1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_Attachments.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_Attachments1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_Brands.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_Brands1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_Creation.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_Creation1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\ExternalReferences.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ExternalReferences.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_HeaderSection.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_HeaderSection1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_History.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_History1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_LandingPage.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_LandingPage1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_Notes.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_Notes1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_Opportunities.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_Opportunities1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_Relationships.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_Relationships1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_Responsibilities.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_Responsibilities1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_SalesAssignment.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_SalesAssignment1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_Territories.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_Territories1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\Company_UserForms.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Company_UserForms1.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\Contact_Creation.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Contact_Creation.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactDocuments.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactDocuments.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactCampaign.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactCampaign.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactWebUser.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactWebUser.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactAttachments.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactAttachments.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactNotes.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactNotes.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactOpportunities.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactOpportunities.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactRelationships.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactRelationships.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactResponsibilities.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactResponsibilities.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactHistory.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactHistory.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactSearch.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactSearch.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchFinance.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchFinance.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchAttachments.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchAttachments.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchAdTemplates.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchAdTemplates.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchHeaderSection.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchHeaderSection.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchUserForms.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchUserForms.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchTerritories.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchTerritories.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchSalesAssignments.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchSalesAssignments.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchResponsibilities.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchResponsibilities.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchOpportunities.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchOpportunities.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchExternalReference.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchExternalReference.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchNotes.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchNotes.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchRelationships.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchRelationships.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchBrands.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchBrands.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchContacts.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchContacts.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchHistory.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchHistory.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchHierarchies.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchHierarchies.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearch.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearch.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanyContacts.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanyContacts.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanySearchInformation.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanySearchInformation.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Contacs\ContactsLandingPage.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>ContactsLandingPage.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanyFinance.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanyFinance.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Feature\Company\CompanyHierarchies.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CompanyHierarchies.feature.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ingenta.Framework\Ingenta.Framework.csproj">
+      <Project>{cfb4a543-c559-4252-b2cd-6a18b96b54d5}</Project>
+      <Name>Ingenta.Framework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Companies\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Selenium.Chrome.WebDriver.2.37\build\Selenium.Chrome.WebDriver.targets" Condition="Exists('..\packages\Selenium.Chrome.WebDriver.2.37\build\Selenium.Chrome.WebDriver.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Selenium.Chrome.WebDriver.2.37\build\Selenium.Chrome.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.Chrome.WebDriver.2.37\build\Selenium.Chrome.WebDriver.targets'))" />
+    <Error Condition="!Exists('..\packages\AutoItX.Dotnet.3.3.14.2\build\AutoItX.Dotnet.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\AutoItX.Dotnet.3.3.14.2\build\AutoItX.Dotnet.targets'))" />
+    <Error Condition="!Exists('..\packages\Selenium.WebDriver.IEDriver.3.11.1\build\Selenium.WebDriver.IEDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.WebDriver.IEDriver.3.11.1\build\Selenium.WebDriver.IEDriver.targets'))" />
+    <Error Condition="!Exists('..\packages\Selenium.Firefox.WebDriver.0.20.0\build\Selenium.Firefox.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.Firefox.WebDriver.0.20.0\build\Selenium.Firefox.WebDriver.targets'))" />
+  </Target>
+  <Import Project="..\packages\AutoItX.Dotnet.3.3.14.2\build\AutoItX.Dotnet.targets" Condition="Exists('..\packages\AutoItX.Dotnet.3.3.14.2\build\AutoItX.Dotnet.targets')" />
+  <Import Project="..\packages\Selenium.WebDriver.IEDriver.3.11.1\build\Selenium.WebDriver.IEDriver.targets" Condition="Exists('..\packages\Selenium.WebDriver.IEDriver.3.11.1\build\Selenium.WebDriver.IEDriver.targets')" />
+  <Import Project="..\packages\Selenium.Firefox.WebDriver.0.20.0\build\Selenium.Firefox.WebDriver.targets" Condition="Exists('..\packages\Selenium.Firefox.WebDriver.0.20.0\build\Selenium.Firefox.WebDriver.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\bin\Debug\Ingenta.Test.nunit" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-04-03" time="14:13:24">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8762" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\bin\Debug" machine-name="RAV-DSK-283" user="neerav.talreja" user-domain="RAVE-TECH.CO.IN" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\bin\Debug\Ingenta.Test.nunit" executed="True" result="Failure" success="False" time="4.410" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\bin\Debug\Ingenta.Test.dll" executed="True" result="Failure" success="False" time="4.403" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Ingenta" executed="True" result="Failure" success="False" time="4.402" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Test" executed="True" result="Failure" success="False" time="4.402" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="SimpleScenario" executed="True" result="Failure" success="False" time="4.401" asserts="0">
+                    <results>
+                      <test-case name="Ingenta.Test.SimpleScenario.UpdateBookingRefrence" executed="True" result="Error" success="False" time="3.863" asserts="0">
+                        <failure>
+                          <message><![CDATA[SetUp : System.ArgumentNullException : Argument 'url' cannot be null.
+Parameter name: value]]></message>
+                          <stack-trace><![CDATA[at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+at OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+at Ingenta.Framework.Utils.Driver.Navigate(String homeURL) in D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Framework\Utils\Driver.cs:line 21
+at Ingenta.Test.Utils.Start.setUp() in D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\Utils\Start.cs:line 48
+at Ingenta.Test.SimpleScenario.initialSetUp() in D:\All-Projects\IET tv\Ingenta_BDD\Ingenta.Test\SimpleScenario.cs:line 32
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
